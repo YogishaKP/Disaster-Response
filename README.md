@@ -2,11 +2,13 @@
 This project involves ETL and a Machine Learning Pipeline  implementation, that classifies messages related to disaster response, and covering multiple language disasters, with a disaster emergency response using a Flask Web App.
 
 
-Motivation
+**Motivation**
+
 The classifier model is built using Extract, Transform and Load process(ETL), natural language processing(NLP) and machine learning pipeline for classifying disaster messages. The project also includes a web app where an emergency worker can input a new message and get classification results in several categories. It can be useful to detect what messages actually need attention during the event of a disaster.
 
 
-Dataset
+**Dataset**
+
 The dataset contains 30,000 messages drawn from events including an earthquake in Haiti in 2010, an earthquake in Chile in 2010, floods in Pakistan in 2010, super-storm Sandy in the U.S.A. in 2012, and news articles spanning a large number of years and 100s of different disasters.
 
 The data has been encoded with 36 different categories related to disaster response and has been stripped of messages with sensitive information in their entirety.
@@ -17,7 +19,8 @@ Disaster response messages dataset consists of imbalanced category labels data. 
 ✅Train the model using Intel oneDAL to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDAL))
 
 
-What I learned image
+**What I learned image**
+
 
 
 ✅Building application using intel oneDAL:The Intel oneAPI Data Analytics Library (oneDAL) contributes to the acceleration of big data analysis by providing highly optimised algorithmic building blocks for all phases of data analytics (preprocessing, transformation, analysis, modelling, validation, and decision making) in batch, online, and distributed processing modes of computation.The library optimizes data ingestion along with algorithmic computation to increase throughput and scalability.
