@@ -40,6 +40,4 @@ Disaster response messages dataset consists of imbalanced category labels data. 
 
 ✅Comparison of model performance: You would have learned how to compare the performance of different models using appropriate statistical tests or visualizations. This can help you choose the best model for the given problem.
 
-✅Collaboration: Building a project like this likely required collaboration with a team of experts in various fields, such as medical science, machine learning, and data analysis, and I likely learned the importance of working together to achieve common goals.
-
-These are just a few examples of the knowledge and skills that i likely gained while building this project. Overall, building a crop recommendation application is a challenging and rewarding experience that requires a combination of technical expertise and agricultural knowledge.
+✅Collaboration: Building a project like this likely required collaboration with a team of experts in various fields, machine learning, and data analysis, and I likely learned the importance of working together to achieve common goals.
