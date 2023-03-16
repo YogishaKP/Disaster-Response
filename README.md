@@ -4,10 +4,12 @@ This project involves ETL and a Machine Learning Pipeline  implementation, that 
 
 **Motivation**
 
+
 The classifier model is built using Extract, Transform and Load process(ETL), natural language processing(NLP) and machine learning pipeline for classifying disaster messages. The project also includes a web app where an emergency worker can input a new message and get classification results in several categories. It can be useful to detect what messages actually need attention during the event of a disaster.
 
 
 **Dataset**
+
 
 The dataset contains 30,000 messages drawn from events including an earthquake in Haiti in 2010, an earthquake in Chile in 2010, floods in Pakistan in 2010, super-storm Sandy in the U.S.A. in 2012, and news articles spanning a large number of years and 100s of different disasters.
 
@@ -16,6 +18,7 @@ The data has been encoded with 36 different categories related to disaster respo
 Disaster response messages dataset consists of imbalanced category labels data. Some labels like aid-related, weather-related have much more examples as compared to other categories. This imbalance might affect the model training as the classes are not represented equally. It can be handled by resampling the dataset or by generating synthetic samples. Although I have not applied these methods for now but I am planning to do it in future.
 
 ✅Test Different Models and find the best model out of it
+
 ✅Train the model using Intel oneDAL to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDAL))
 
 
