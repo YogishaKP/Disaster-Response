@@ -11,7 +11,7 @@ The classifier model is built using Extract, Transform and Load process(ETL), na
 **Dataset**
 
 
-The dataset contains 30,000 messages drawn from events including an earthquake in Haiti in 2010, an earthquake in Chile in 2010, floods in Pakistan in 2010, super-storm Sandy in the U.S.A. in 2012, and news articles spanning a large number of years and 100s of different disasters.
+The dataset contains around 30,000 messages drawn from events including an earthquake in Haiti in 2010, an earthquake in Chile in 2010, floods in Pakistan in 2010, super-storm Sandy in the U.S.A. in 2012, and news articles spanning a large number of years and 100s of different disasters.
 
 The data has been encoded with 36 different categories related to disaster response and has been stripped of messages with sensitive information in their entirety.
 
