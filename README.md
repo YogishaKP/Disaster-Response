@@ -22,7 +22,9 @@ Disaster response messages dataset consists of imbalanced category labels data. 
 ✅Train the model using Intel oneDAL to get better results and faster computation(Intel oneAPI Data Analytics Library (oneDAL))
 
 
-**What I learned image**
+
+
+**What I learned**
 
 
 
