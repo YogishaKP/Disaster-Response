@@ -24,7 +24,7 @@ Disaster response messages dataset consists of imbalanced category labels data. 
 
 
 
-**What I learned**
+**What we learnt**
 
 
 
